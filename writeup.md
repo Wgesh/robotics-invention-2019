@@ -3,10 +3,12 @@ Have you ever been in the middle of playing an online game and felt really thirs
 Cost: $9.99
 Material: Polycarbonate
 
-Manufacturing: 
+Manufacturing:
 - 3D Hubs injection moulding (For 500 pieces: $9,800/tooling machine, $1.00/part)
-Shipping: 
+
+Shipping:
 - $1850 a year for Canada Post International Parcel – Air
-Packaging: 
+
+Packaging:
 - ULINE 4 x 4 x 4" Corrugated Boxes (For 500 boxes: $0.31/box)
 - ULINE 4 x 8" OPEN END BUBBLE BAGS ($110/1000 bags or $0.11/bag)
